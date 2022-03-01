@@ -1,9 +1,9 @@
 {
-  "title": "BlogTheMaker",
-  "siteUrl": "https://unity.themaker.blog/",
-  "description": "UnityTheMaker's blog about programming. He tries to refer the important topics and tries to make attractive posts.",
+  "title": "Discord Blog",
+  "siteUrl": "https://discord.tc",
+  "description": "Discord ile alakalı tüm bilgiler bu sitede!",
   "home": {
-    "title": "Hey! I'm Halil Tezcan \"UnityTheMaker\" KARABULUT",
-    "description": "I'm a \"maker\" with Senior Fullstack Web Development & Jr. IoT Engineering skills."
+    "title": "",
+    "description": ""
   }
 }
